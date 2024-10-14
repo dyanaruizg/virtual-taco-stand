@@ -22,7 +22,7 @@ import { Component } from '@angular/core';
       <div class="highlights-container">
         <div class="highlight">
           <img
-            src="/assets/Downtown.png"
+            src="assets/Downtown.png"
             alt="image of downtime with buildings and cars"
           />
           <p>
@@ -34,7 +34,7 @@ import { Component } from '@angular/core';
 
         <div class="highlight">
           <img
-            src="/assets/Stand.png"
+            src="assets/Stand.png"
             alt="image of a taco stand a guy standing there and a customer ordering a taco"
           />
           <!-- give me an item description for a guy standing at the standing selling
@@ -50,7 +50,7 @@ import { Component } from '@angular/core';
         </div>
 
         <div class="highlight">
-          <img src="/assets/Tacos.png" alt="image of three tacos side by side" />
+          <img src="assets/Tacos.png" alt="image of three tacos side by side" />
           <p>
             Feast your eyes on our trio of tacos, a vibrant homage to authentic
             Mexican cuisine.

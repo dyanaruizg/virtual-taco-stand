@@ -10,7 +10,7 @@ import { AuthService } from './auth.service';
   template: `
     <div class="wrapper">
       <header class="banner">
-        <img src="/assets/VirtualTacoStand.png" alt="website banner for virtual
+        <img src="assets/VirtualTacoStand.png" alt="website banner for virtual
         taco stand" class="banner-img">
       </header>
 
